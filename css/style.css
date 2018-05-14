@@ -44,6 +44,10 @@ h2 {
 	text-decoration: none;
 }
 
+#featured img {
+	border: 5px #ccc solid;
+}
+
 #featured a:hover {
 	text-decoration: underline;
 }
